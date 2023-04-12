@@ -1,0 +1,21 @@
+{
+  "name": "newtest",
+  "version": "1.0.0",
+  "description": "Playwright Test Visual Studio Code Extension",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dnaqa/Newtest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dnaqa/Newtest/issues"
+  },
+  "homepage": "https://github.com/Dnaqa/Newtest#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.32.3"
+  }
+}
